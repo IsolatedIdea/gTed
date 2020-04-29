@@ -1,0 +1,6 @@
+#ifndef DEFINITIONS_H
+#define DEFINITIONS_H
+
+#define CTRL_KEY(K) ((K) & 0x1f)
+
+#endif // DEFINITIONS_H

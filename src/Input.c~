@@ -1,0 +1,29 @@
+/**
+ * Description:
+ * Input control functions for gTed
+ *
+ * Author:
+ * Graeme Tinsdale
+ * Version:
+ * v1.0.0
+ **/
+
+#include <stdlib.h>
+
+#include "Definitions.h"
+#include "NativeTerminal.h"
+
+//-----------------------------------------------------------ProcessKeypress(..)
+void ProcessKeypress()
+{
+	char c = ReadKey();
+
+	switch(c)
+	{
+		case CTRL_KEY('q'):
+		{
+			exit(0);
+		}
+		break;
+	}
+}//ProcessKeypress(...) ends

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Definitions.h
+
+/mnt/d/Projects/gTed/src/NativeTerminal.c
+ctype.h
+-
+sys/ioctl.h
+-
+errno.h
+-
+unistd.h
+-
+termios.h
+-
+stdlib.h
+-
+stdio.h
+-
+Definitions.h
+/mnt/d/Projects/gTed/src/Definitions.h
+

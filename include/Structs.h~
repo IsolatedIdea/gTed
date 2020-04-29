@@ -1,0 +1,11 @@
+#ifndef STRUCTS_H
+#define STRUCTS_H
+
+#include <termios.h>
+
+struct config
+{
+	struct termios orig_termios;
+};
+
+#endif

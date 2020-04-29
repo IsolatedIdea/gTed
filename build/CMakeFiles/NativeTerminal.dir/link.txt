@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNativeTerminal.a  CMakeFiles/NativeTerminal.dir/src/NativeTerminal.c.o
+/usr/bin/ranlib libNativeTerminal.a
