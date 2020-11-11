@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/NativeTerminal.dir/src/NativeTerminal.c.o"
-  "libNativeTerminal.pdb"
   "libNativeTerminal.a"
+  "libNativeTerminal.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

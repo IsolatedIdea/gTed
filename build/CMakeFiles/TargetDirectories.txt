@@ -1,5 +1,5 @@
-/mnt/d/Projects/gTed/build/CMakeFiles/edit_cache.dir
-/mnt/d/Projects/gTed/build/CMakeFiles/NativeTerminal.dir
-/mnt/d/Projects/gTed/build/CMakeFiles/Input.dir
-/mnt/d/Projects/gTed/build/CMakeFiles/gTed.dir
-/mnt/d/Projects/gTed/build/CMakeFiles/rebuild_cache.dir
+/home/graeme/projects/gTed/build/CMakeFiles/edit_cache.dir
+/home/graeme/projects/gTed/build/CMakeFiles/gTed.dir
+/home/graeme/projects/gTed/build/CMakeFiles/rebuild_cache.dir
+/home/graeme/projects/gTed/build/CMakeFiles/Input.dir
+/home/graeme/projects/gTed/build/CMakeFiles/NativeTerminal.dir

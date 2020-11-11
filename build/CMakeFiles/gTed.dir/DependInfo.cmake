@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/d/Projects/gTed/src/main.c" "/mnt/d/Projects/gTed/build/CMakeFiles/gTed.dir/src/main.c.o"
+  "/home/graeme/projects/gTed/src/main.c" "/home/graeme/projects/gTed/build/CMakeFiles/gTed.dir/src/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -15,8 +15,8 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/mnt/d/Projects/gTed/build/CMakeFiles/NativeTerminal.dir/DependInfo.cmake"
-  "/mnt/d/Projects/gTed/build/CMakeFiles/Input.dir/DependInfo.cmake"
+  "/home/graeme/projects/gTed/build/CMakeFiles/NativeTerminal.dir/DependInfo.cmake"
+  "/home/graeme/projects/gTed/build/CMakeFiles/Input.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

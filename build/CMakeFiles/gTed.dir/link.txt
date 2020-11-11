@@ -1,1 +1,1 @@
-/usr/bin/cc     CMakeFiles/gTed.dir/src/main.c.o  -o gTed libNativeTerminal.a libInput.a 
+/usr/bin/cc CMakeFiles/gTed.dir/src/main.c.o -o gTed  libNativeTerminal.a libInput.a 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/d/Projects/gTed/src/Input.c" "/mnt/d/Projects/gTed/build/CMakeFiles/Input.dir/src/Input.c.o"
+  "/home/graeme/projects/gTed/src/Input.c" "/home/graeme/projects/gTed/build/CMakeFiles/Input.dir/src/Input.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

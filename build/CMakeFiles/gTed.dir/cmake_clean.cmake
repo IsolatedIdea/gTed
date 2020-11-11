@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/gTed.dir/src/main.c.o"
-  "gTed.pdb"
   "gTed"
+  "gTed.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

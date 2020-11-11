@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -10,7 +10,7 @@
 
 ../include/NativeTerminal.h
 
-/mnt/d/Projects/gTed/src/Input.c
+/home/graeme/projects/gTed/src/Input.c
 unistd.h
 -
 stdio.h
@@ -18,7 +18,7 @@ stdio.h
 stdlib.h
 -
 Definitions.h
-/mnt/d/Projects/gTed/src/Definitions.h
+/home/graeme/projects/gTed/src/Definitions.h
 NativeTerminal.h
-/mnt/d/Projects/gTed/src/NativeTerminal.h
+/home/graeme/projects/gTed/src/NativeTerminal.h
 
